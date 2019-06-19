@@ -1,7 +1,0 @@
-#file creating at gitHub 
-
-lst=[1,2,4,3,6,5]
-
-for i in range lst:
-  print(i)
-  
