@@ -1,6 +1,6 @@
 
 
-
+# This program is to reverse the string
 def revStr(value):
 	return value[::-1]
 
